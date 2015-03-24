@@ -1,4 +1,4 @@
-package com.devbycm.CCF_Simulate003;
+package com.devbycm.CCF2013123;
 
 import java.util.Scanner;
 

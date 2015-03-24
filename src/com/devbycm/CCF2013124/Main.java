@@ -1,4 +1,4 @@
-package com.devbycm.CCF_Simulate004;
+package com.devbycm.CCF2013124;
 
 import java.math.BigInteger;
 import java.util.Scanner;

@@ -1,6 +1,5 @@
-package com.devbycm.CCF_Simulate001;
+package com.devbycm.CCF2013121;
 
-import java.util.Arrays;
 import java.util.Scanner;
 
 /**
